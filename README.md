@@ -1,2 +1,4 @@
-# sigma-web-dev
-practice to web development
+#core-web-devlopment
+practice to frontent development 👨‍💻👩‍💻
+
+
