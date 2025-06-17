@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+time{
+    view-timeline: 80;
+    view-timeline-inset: 23;
+    color: black;
+
+}
+blockquote{
+    scrollbar-darkshadow-color: blueviolet;
+}

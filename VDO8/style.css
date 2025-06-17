@@ -1,0 +1,15 @@
+p{
+    background-color: red;
+}
+a{
+    background-color: #FF0000;
+}
+div{
+    a{
+        background-color: brown;
+    }
+    background-color: #00FF00;
+}
+span{
+   background-color: brown;
+}
